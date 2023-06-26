@@ -1,0 +1,37 @@
+cookie:
+  expiry_days: 0
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    rbriggs:
+      email: rbriggs@gmail.com
+      name: Rebecca Briggs
+      password: '456'
+    venk:
+      email: venkateshvishwanath99@gmail.com
+      name: venkatesh
+      password: $2b$12$w0hvSkbqT9CIYexS3qUHt.D.g1JVysIYsr/duZseCfBnTiHIwT6sq
+    venk123:
+      email: venkateshvishwanath99@gmail.com
+      name: venkatesh
+      password: $2b$12$dqWKOGJgn6Dnu0k88rMnW.enbvMvnAaMNCH5ImShuHy0rhZyBGc06
+    venk1996:
+      email: venkateshvishwanath99@gmail.com
+      name: Venkatesh M
+      password: Password123
+    venka1996:
+      email: venkateshvishwanath99@gmail.com
+      name: Venkat
+      password: $2b$12$wvhFf3nt.RYSQkfLArUwFO.hEqIy6Iy1j1mPI03E7Heh2mmpR17Ba
+    venkatesh1125:
+      email: venkateshvishwanath99@gmail.com
+      name: venkatesh
+      password: $2b$12$5hspPX2.rYIjhpSdcuPYceS3nGATjQJgaebP4b1xjoXd0R.3XOvLy
+    venkatesh1996:
+      email: venkatesjvishwanath99@gmail.com
+      name: venkatesh manikantan
+      password: $2b$12$Jo38DJom2if0TFeNJUUfNOmbF5Hk8usxq0w9lXVq/JlFw/NKZF4ou
+preauthorized:
+  emails:
+  - venkateshvishwanath99@gmail.com
